@@ -1,0 +1,9 @@
+name: Slubsy
+version: ${project.version}
+main: pl.memexurer.slubsy.MerriPlugin
+description: slubsz
+depend:
+  - PlaceholderAPI
+commands:
+  obraczki:
+  rozwod:
